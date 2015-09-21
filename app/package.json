@@ -3,11 +3,11 @@
   "productName": "SteedOS Chat",
   "identifier": "com.steedos.chat",
   "description": "SteedOS Chat Native Cross-Platform Desktop Application.",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": "SteedOS Support <support@steedos.com>",
   "main": "main.js",
   "config": {
-    "target": "development"
+    "target": "production"
   },
   "dependencies": {
     "fs-jetpack": "^0.7.0"
