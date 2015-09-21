@@ -39,7 +39,7 @@ function createAppTray(mainWindow) {
             doQuit();
         }
     }]);
-    _tray.setToolTip('Rocket.Chat');
+    _tray.setToolTip('SteedOS Chat');
     _tray.setContextMenu(contextMenu);
 
     if (process.platform === 'darwin') {

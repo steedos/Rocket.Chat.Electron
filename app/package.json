@@ -1,10 +1,10 @@
 {
-  "name": "rocketchat",
-  "productName": "Rocket.Chat",
-  "identifier": "chat.rocket",
-  "description": "Rocket.Chat Native Cross-Platform Desktop Application via Electron.",
-  "version": "0.0.8",
-  "author": "Rocket.Chat Support <support@rocket.chat>",
+  "name": "steedos_chat",
+  "productName": "SteedOS Chat",
+  "identifier": "com.steedos.chat",
+  "description": "SteedOS Chat Native Cross-Platform Desktop Application.",
+  "version": "2.0.0",
+  "author": "SteedOS Support <support@steedos.com>",
   "main": "main.js",
   "config": {
     "target": "development"

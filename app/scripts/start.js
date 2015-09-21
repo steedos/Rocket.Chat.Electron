@@ -1,7 +1,7 @@
 (function() {
     var key = 'rocket.chat.hosts',
         rocketHeader = 'X-Rocket-Chat-Version'.toLowerCase(),
-        defaultInstance = 'https://demo.rocket.chat/';
+        defaultInstance = 'https://chat.steedos.com/';
 
     //init loader
     var loader = document.querySelector('.loader');

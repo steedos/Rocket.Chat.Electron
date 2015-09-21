@@ -16,6 +16,9 @@ https://github.com/sindresorhus/awesome-electron
 The only development dependency of this project is [Node.js](https://nodejs.org). So just make sure you have it installed.
 Then type few commands known to every Node developer...
 ```
+
+npm install electron-prebuilt --save-dev
+
 git clone https://github.com/RocketChat/Rocket.Chat.Electron.git
 cd Rocket.Chat.Electron
 npm install

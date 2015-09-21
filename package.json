@@ -1,12 +1,12 @@
 {
   "devDependencies": {
     "asar": "^0.7.2",
-    "electron-prebuilt": "^0.32.2",
+    "electron-prebuilt": "^0.33.0",
     "fs-jetpack": "^0.7.0",
     "gulp": "^3.9.0",
     "gulp-babel": "^5.2.1",
-    "gulp-less": "^3.0.3",
     "gulp-coffee": "^2.3.1",
+    "gulp-less": "^3.0.3",
     "gulp-sourcemaps": "^1.5.2",
     "gulp-util": "^3.0.6",
     "q": "^1.4.1",

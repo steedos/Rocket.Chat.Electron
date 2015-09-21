@@ -4,7 +4,7 @@ remote = require 'remote'
 Menu = remote.require 'menu'
 app = remote.require 'app'
 path = remote.require 'path'
-APP_NAME = 'Rocket.Chat'
+APP_NAME = 'SteedOS Chat'
 
 if process.platform is 'darwin'
 	template = [
